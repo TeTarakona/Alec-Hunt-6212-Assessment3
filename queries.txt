@@ -1,0 +1,7 @@
+Console queries:
+Cat_Couture.Inventory.find({})
+Cat_Couture.Inventory.find({ "discount.discount_type": { $exists: true } })
+
+Compass queries:
+{}
+{"discount.discount_type": {$exists: true}}

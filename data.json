@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Cat Bow Tie",
+      "description": "Stylish bow tie for cats, perfect for special occasions",
+      "price": 15,
+      "category": "Accessories",
+      "image": {
+        "name": "Cat Bow Tie",
+        "description": "Front view of the bow tie",
+        "img": "cat_bowtie.jpg"
+      },
+      "discount": {
+        "discount_type": "Percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 2,
+      "name": "Cat Sweater",
+      "description": "Cozy sweater designed for cats, keeping them warm in style",
+      "price": 20,
+      "category": "Apparel",
+      "image": {
+        "name": "Cat Sweater",
+        "description": "Side view of the sweater",
+        "img": "cat_sweater.jpg"
+      },
+      "discount": {
+        "discount_type": "Number off",
+        "value": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Cat Collar",
+      "description": "Fashionable collar with bell for cats, enhancing their charm",
+      "price": 10,
+      "category": "Accessories",
+      "image": {
+        "name": "Cat Collar",
+        "description": "Close-up view of the collar",
+        "img": "cat_collar.jpg"
+      },
+      "discount": {
+        "discount_type": "Percent",
+        "value": 15
+      }
+    },
+    {
+      "id": 4,
+      "name": "Cat Hat",
+      "description": "Adorable hat for cats, adding a playful touch to their look",
+      "price": 12,
+      "category": "Apparel",
+      "image": {
+        "name": "Cat Hat",
+        "description": "Top view of the hat",
+        "img": "cat_hat.jpg"
+      },
+      "discount": {
+        "discount_type": "Percent",
+        "value": 8
+      }
+    },
+    {
+      "id": 5,
+      "name": "Cat Sunglasses",
+      "description": "Cool sunglasses for cats, protecting their eyes with style",
+      "price": 18,
+      "category": "Accessories",
+      "image": {
+        "name": "Cat Sunglasses",
+        "description": "Cat wearing sunglasses",
+        "img": "cat_sunglasses.jpg"
+      },
+      "discount": {
+        "discount_type": "Number off",
+        "value": 3
+      }
+    },
+    {
+      "id": 6,
+      "name": "Cat Bandana",
+      "description": "Trendy bandana for cats, making them stand out in the crowd",
+      "price": 8,
+      "category": "Apparel",
+      "image": {
+        "name": "Cat Bandana",
+        "description": "Cat wearing a bandana",
+        "img": "cat_bandana.jpg"
+      },
+      "discount": {
+        "discount_type": "Percent",
+        "value": 12
+      }
+    },
+    {
+      "id": 7,
+      "name": "Cat Tuxedo",
+      "description": "Elegant tuxedo for cats, perfect for formal events",
+      "price": 25,
+      "category": "Apparel",
+      "image": {
+        "name": "Cat Tuxedo",
+        "description": "Cat dressed in a tuxedo",
+        "img": "cat_tuxedo.jpg"
+      },
+      "discount": {
+        "discount_type": "Number off",
+        "value": 6
+      }
+    },
+    {
+      "id": 8,
+      "name": "Cat Hair Bow",
+      "description": "Chic hair bow for cats, adding a touch of glamour to their appearance",
+      "price": 7,
+      "category": "Accessories",
+      "image": {
+        "name": "Cat Hair Bow",
+        "description": "Cat with a hair bow",
+        "img": "cat_hairbow.jpg"
+      },
+      "discount": {
+        "discount_type": "Percent",
+        "value": 10
+      }
+    },
+    {
+      "id": 9,
+      "name": "Cat Harness",
+      "description": "Stylish harness for cats, ensuring comfort and safety during walks",
+      "price": 14,
+      "category": "Accessories",
+      "image": {
+        "name": "Cat Harness",
+        "description": "Cat wearing a harness",
+        "img": "cat_harness.jpg"
+      },
+      "discount": {
+        "discount_type": "Percent",
+        "value": 8
+      }
+    },
+    {
+      "id": 10,
+      "name": "Cat Bow Collar",
+      "description": "Adorable bow collar for cats, combining style and charm",
+      "price": 11,
+      "category": "Accessories",
+      "image": {
+        "name": "Cat Bow Collar",
+        "description": "Cat wearing a bow collar",
+        "img": "cat_bowcollar.jpg"
+      },
+      "discount": {
+        "discount_type": "Number off",
+        "value": 4
+      }
+    }
+  ]
+  
